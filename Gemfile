@@ -4,7 +4,7 @@ gem 'rails', '3.0.3'
 gem 'mysql2'
 gem 'compass'
 gem 'therubyracer', :require => false
-gem 'barista', '0.7.0.pre3'
+gem 'barista', '1.0.0'
 
 group :development, :test do
   gem 'ruby-debug19'
