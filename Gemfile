@@ -6,6 +6,7 @@ gem 'compass'
 gem 'therubyracer', :require => false
 gem 'barista', '1.0.0'
 gem 'inherited_resources'
+gem 'simple_form'
 
 group :development, :test do
   gem 'ruby-debug19'
